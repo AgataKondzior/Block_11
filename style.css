@@ -1,8 +1,11 @@
 table {
-  margin:auto; 
+  width: 650px; 
+  margin: auto;
+  padding: 20px;
 }
 
 th {
+width: 200px;
 text-align: "left";
 font-weight: "bold";
 
